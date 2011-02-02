@@ -33,7 +33,7 @@
 	    </repository>
 	    <snapshotRepository>
 	        <id>snapshot-repo</id>
-	        <url>https://github.com/dawsonsystems/mavenrepo/raw/master/releases</url>
+	        <url>https://github.com/dawsonsystems/mavenrepo/raw/master/snapshots</url>
 	    </snapshotRepository>
 	</distributionManagement>
 </project>
